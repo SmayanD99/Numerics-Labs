@@ -1,0 +1,5 @@
+﻿  Wubneh8.cpp
+C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\wubneh8\Wubneh8.cpp(30,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\wubneh8\Wubneh8.cpp(44,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\wubneh8\Wubneh8.cpp(57,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  wubneh8.vcxproj -> C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\x64\Debug\wubneh8.exe

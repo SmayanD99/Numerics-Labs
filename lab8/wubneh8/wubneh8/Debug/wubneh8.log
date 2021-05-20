@@ -1,0 +1,5 @@
+﻿  Wubneh8.cpp
+C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\wubneh8\Wubneh8.cpp(40,6): warning C4101: 'n': unreferenced local variable
+C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\wubneh8\Wubneh8.cpp(39,9): warning C4101: 'upperlimit': unreferenced local variable
+C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\wubneh8\Wubneh8.cpp(38,9): warning C4101: 'LowerLimit': unreferenced local variable
+  wubneh8.vcxproj -> C:\Users\helen\OneDrive\Desktop\lab8\wubneh8\Debug\wubneh8.exe

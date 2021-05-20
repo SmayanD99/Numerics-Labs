@@ -1,0 +1,11 @@
+Original Augmented Matrix for System 1 
+2 3 0 8
+-1 2 -1 0
+3 0 2 94
+Upper triangular Augmented Matrix from N.G.E. 
+2 3 0 8
+0 3.5 -1 4
+0 0 0.714286 87.1429
+Solution from N.G.E x1: -50
+Solution from N.G.E x2: 36
+Solution from N.G.E x3: 122
